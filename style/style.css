@@ -1,0 +1,491 @@
+/* top menu style  */
+
+
+
+
+.top-banner {
+    height: 1322px;
+    width: 1920px;
+    background-color: #FF900E1A;
+    background-image: url(../images/banner2-helal.png);
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: 1920px 1322px;
+    margin: auto;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: -50px;
+
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+
+}
+
+nav li {
+    padding-left: 60px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.nav-title {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    color: #0098fd;
+}
+
+.banner-title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 80px;
+    margin-left: 550px;
+    margin-right: 550px;
+    text-align: center;
+
+}
+
+.brand-description {
+    text-align: center;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+
+    margin-left: 530px;
+    margin-right: 530px;
+}
+
+
+
+.banner-title {
+    width: 862px;
+    height: 225px;
+    margin: auto;
+}
+
+.btn {
+    width: 250px;
+    height: 80px;
+    background-color: #0098fd;
+    border-radius: 5px;
+    align-items: center;
+    margin-left: 870px;
+    margin-top: 600px;
+    border: none;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+}
+
+.main-image {
+    Width: 1440px;
+    Height: 700px;
+    margin-top: 30px;
+    margin-left: 240px;
+}
+
+
+
+
+
+/* section 1 or feature section style  */
+
+
+.quick-list {
+    padding-right: 300px;
+}
+
+.left-images-container {
+    height: 684px;
+    width: 684px;
+    background-color: #0098fd;
+    margin-left: 550px;
+}
+
+.featuer-text {
+    height: 684px;
+    width: 684px;
+    background-color: black;
+}
+
+.feature-section-container {
+    height: 1322px;
+    width: 1920px;
+    align-items: center;
+    margin: auto;
+    display: flex;
+
+
+
+}
+
+.grid-images {
+    height: 684px;
+    width: 684px;
+    margin-left: 320px;
+    display: grid;
+    grid-template-columns: 350px 600px;
+    grid-template-rows: 350px 600px;
+    margin-top: -350px;
+
+}
+
+.quick-list {
+    height: 304px;
+    width: 500px;
+    padding-left: 150px;
+    margin-top: -450px;
+
+
+}
+
+.quick-list h2 {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 45px;
+}
+
+.btn1 {
+    width: 180px;
+    height: 64px;
+    background-color: #0098fd;
+    border-radius: 5px;
+    border: none;
+    margin-top: 35px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    color: white;
+}
+
+
+
+
+/* -------------- 
+           section tow love and enjoy
+             --------------------------- */
+
+.section-two-love-ejnoy {
+    height: 1322px;
+    width: 1920px;
+    align-items: center;
+    margin: auto;
+    display: flex;
+    margin-top: -300px;
+}
+
+.section-tow-left-side {
+    width: 800px;
+    height: 1050px;
+    margin-top: -280px;
+    margin-left: 220px;
+}
+
+.section-two-right-side {
+    width: 800px;
+    height: 1050px;
+    margin-top: -280px;
+    margin-left: -30px;
+
+
+}
+
+.section-two-title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    padding-right: 210px;
+    padding-left: 5px;
+    margin-top: -10px;
+}
+
+.section-two-love-ejnoy p {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    padding-right: 230px;
+    margin-top: -30px;
+}
+
+.left-tittle {
+    width: 586px;
+    height: 171px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.06);
+    border-radius: 8px;
+}
+
+.left-tittle h3 {
+    padding-top: 20px;
+    padding-left: 15px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.left-tittle p {
+    padding-top: 40px;
+    padding-left: 15px;
+    padding-right: 30px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.btn2 {
+    width: 300px;
+    height: 100px;
+    background-color: #0098fd;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    margin-left: 0x;
+    margin-top: 80px;
+    margin-left: -830px;
+
+}
+
+
+
+
+/* style for some facet or section three  */
+
+.section-somefacts {
+    width: 1920px;
+    height: 800px;
+    align-items: center;
+    margin: auto;
+    margin-top: -150px;
+}
+
+.section-somefact-title h3 {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    margin-left: 240px;
+}
+
+.section-somefact-title p {
+    padding-right: 1130px;
+    padding-left: 240px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #727272;
+}
+
+.section-awards {
+    display: flex;
+    margin-top: 100px;
+    margin-left: 290px;
+    gap: 124px;
+}
+
+.award-box {
+    width: 242px;
+    height: 242px;
+    border: 1px solid #0098fd;
+    border-radius: 8px;
+}
+
+.award-box {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transition: transform 1s;
+}
+
+.award-box:hover {
+    transform: rotatex(150deg);
+
+}
+
+.award-in {
+
+    margin-top: 50px;
+    margin-bottom: 40px;
+    margin-left: 70px;
+    width: 170px;
+    height: 136px;
+    text-align: center;
+}
+
+.award-in h3 {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 45px;
+    margin-top: 10px;
+}
+
+.award-in p {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    color: #727272;
+    margin-top: -40px;
+    text-align: center;
+
+}
+
+
+/* sponsors -seciotn  */
+
+
+.sponsors-section {
+    width: 1920px;
+    height: 600px;
+    align-items: center;
+    margin: auto;
+    margin-top: -150px;
+}
+
+
+
+.sponsor-title h3 {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    text-align: center;
+}
+
+.sponsor-title p {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+    color: #727272;
+    padding-left: 690px;
+    padding-right: 690px;
+    margin-top: -20px;
+}
+
+.logo {
+    width: 170px;
+    height: 60px;
+}
+
+.logo-container {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    margin-top: 70px;
+    margin-left: 300px;
+    margin-right: 220px;
+
+}
+
+
+
+
+/* my blogs section  */
+
+.my-blogs-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin-right: 240px;
+
+}
+
+.my-blogs {
+    width: 1920px;
+    height: 600px;
+    background: rgba(255, 255, 254, 0.1);
+    align-items: center;
+    margin: auto;
+    margin-top: -150px;
+}
+
+.My-blogs {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 50px;
+    text-align: center;
+}
+
+.myblogs-title {
+    width: 586px;
+    height: 171px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.06);
+    border-radius: 8px;
+    margin-left: 240px;
+    margin-top: 20px;
+}
+
+.myblogs-title h3 {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 800;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.myblogs-title p {
+    padding-left: 10px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #727272;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+.footer {
+    width: 1440px;
+    height: 100px;
+    background: #FFF4E7;
+    align-items: center;
+    margin: auto;
+    margin-bottom: 50px;
+
+
+}
+
+.footer p {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    color: #424242;
+    text-align: center;
+    padding: 45px;
+
+}
+
+
+
+/* --------------- responsive -------- */
+
+@media screen and (max-width) {
+    ul {
+        display: grid;
+        grid-template-columns: max-content;
+
+    }
+}
